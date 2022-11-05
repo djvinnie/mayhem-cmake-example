@@ -1,0 +1,5 @@
+project: mayhem-make-example
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme
